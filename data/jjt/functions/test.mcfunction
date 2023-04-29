@@ -1,0 +1,1 @@
+tellraw @a [{"text":"Data pack [","color":"yellow"},{"text":"JJT","color":"blue","underlined":true,"hoverEvent":{"action":"show_text","contents":{"text":"JJT data pack","color":"white"}}},{"text":"] is enabled.","color":"yellow"}]
